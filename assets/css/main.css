@@ -19,19 +19,18 @@ article {
 	text-align: left;
 }
 
-section#theses,
-section#res {
+section:nth-child(even)  {
 	background-color: #eeeeee
 }
 
-section#pub,
-section#teach {
+section:nth-child(odd)  {
 	background-color: #ffffff
 }
 
 article.hack {
 	padding: 1em;
-	margin-bottom: 2em
+	margin-bottom: 2em;
+	border: 1px solid #000000
 }
 
 article.hack p {
