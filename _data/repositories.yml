@@ -4,8 +4,8 @@ repo_description_lines_max: 2
 
 github_repos:
   - mbuccoli/adventofcode2024
-  - mbuccoli/HAMR2016
-  - mbuccoli/tsoai-lululaby
+  - mbuccoli/HAMR_2016
+  - mbuccoli/tsoai-lullaby
   - mbuccoli/PhdThesis
   - mbuccoli/binaural_soundscape
   - mbuccoli/waveshack2020
