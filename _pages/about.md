@@ -27,8 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Since 2019 I am Senior Innovation Scientist at BdSound for the development of speech-based solutions based on machine and deep learning. Among my duties, I scout new technologies, co-lead BdSound's innovation group and act as a technical manager for internal and external projects.  I co-supervise students for their M.Sc. thesis.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I received my B.Sc. in Computer Engineering in 2010 at the Università di Pisa and my M.Sc. in  Engineering (focused on Sound and Music Engineering) in 2013 at the Politecnico di Milano. In 2016 I defended my doctoral thesis titled "Linking signal and semantic representations of musical content for music information retrieval", and then conducted two years of post-doc research at Politecnico di Milano.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research has concerned music information retrieval, analysis of dance motion sequences, audio and speech processing, machine and deep learning techniques. I also have some experience with Motion Caption sequences, VR applications and use of Large Language Models.
+
