@@ -1,14 +1,12 @@
 github_users:
-  - torvalds
-  - alshedivat
-
+  - mbuccoli
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - mbuccoli/adventofcode2024
+  - mbuccoli/HAMR2016
+  - mbuccoli/tsoai-lululaby
+  - mbuccoli/PhdThesis
+  - mbuccoli/binaural_soundscape
+  - mbuccoli/waveshack2020
+  - mbuccoli/corunnervirus
