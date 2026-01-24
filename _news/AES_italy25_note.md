@@ -2,7 +2,7 @@
 layout: post
 title: A note from AES Italy
 date: 2026-11-11 07:59:00-0400
-inline: true
+inline: false
 related_posts: false
 ---
 
