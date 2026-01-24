@@ -64,10 +64,12 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/EUSIPCO25_note.html";
-            },},{id: "news-i-was-in-florence-to-present-the-paper-effects-of-automotive-microphone-frequency-response-characteristics-and-noise-conditions-on-speech-and-asr-quality-an-experimental-evaluation-at-the-aes-italy-annual-meeting-conferences-are-valuable-for-three-reasons-gaining-inspiration-from-fellow-researchers-building-a-community-around-scientific-topics-and-having-the-opportunity-to-visit-remarkable-places-the-italian-meeting-delivered-on-all-three-fronts-i-attended-many-interesting-presentations-including-some-rather-unusual-ones-such-as-a-study-on-capturing-chewing-sounds-to-evaluate-food-crispiness-and-met-several-brilliant-italian-scientists-including-some-of-my-former-students-who-are-now-pursuing-successful-careers-in-audio-analysis-and-processing-the-sala-del-buonumore-hall-of-jolliness-was-likely-one-of-the-most-beautiful-venues-where-i-have-ever-presented-a-paper-i-also-took-some-time-to-visit-the-usual-sights-around-florence-i-look-forward-to-the-next-aes-italia-meeting-and-hope-to-connect-with-more-italian-audio-scientists-at-upcoming-aes-conventions-starting-with-aes-automotive-audio-in-summer-2026-special-thanks-to-my-co-author-simone-shawn-cazzaniga-who-served-as-an-excellent-ambassador-for-bdsound-s-innovation-team",
-          title: 'I was in Florence to present the paper “Effects of Automotive Microphone Frequency...',
+            },},{id: "news-a-note-from-aes-italy",
+          title: 'A note from AES Italy',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",handler: () => {
+              window.location.href = "/news/AES_italy25_note.html";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
