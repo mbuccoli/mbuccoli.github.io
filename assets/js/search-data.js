@@ -130,13 +130,6 @@ ninja.data = [{
           window.open("mailto:%6D%69%63%68%65%6C%65.%62%75%63%63%6F%6C%69@%6F%75%74%6C%6F%6F%6B.%69%74", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
@@ -144,11 +137,25 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=UXR-R4IAAAAJ", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://github.com/mbuccoli", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/michelebuccoli", "_blank");
+        },
+      },{
+        id: 'social-instagram',
+        title: 'Instagram',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://instagram.com/michele_buccoli", "_blank");
         },
       },{
       id: 'light-theme',
