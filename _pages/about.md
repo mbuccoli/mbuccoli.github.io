@@ -21,10 +21,6 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
 Since 2019 I am Senior Innovation Scientist at BdSound for the development of speech-based solutions based on machine and deep learning. Among my duties, I scout new technologies, co-lead BdSound's innovation group and act as a technical manager for internal and external projects.  I co-supervise students for their M.Sc. thesis.
