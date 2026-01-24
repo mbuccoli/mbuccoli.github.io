@@ -44,19 +44,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/books/";
-              },
-            },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather.html";
-            },},{id: "news-i-wil-participate-to-the-6th-aes-conference-on-automotive-audio-in-detroit-end-of-july-2026-see-you-there",
+        },{id: "news-i-wil-participate-to-the-6th-aes-conference-on-automotive-audio-in-detroit-end-of-july-2026-see-you-there",
           title: 'I wil participate to the 6th AES conference on Automotive Audio in Detroit...',
           description: "",
           section: "News",},{id: "news-a-note-from-eusipco25",
