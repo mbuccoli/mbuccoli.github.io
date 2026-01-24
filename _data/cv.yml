@@ -1,10 +1,10 @@
 cv:
   name: Michele Buccoli
-  label: Audio Scientist
-  email: michele.buccoli@outlook.it\
+  label: Senior Audio Scientist
+  email: michele.buccoli@outlook.it
   location: Milan, Italy
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: Senior audio scientist specialized in speech audio signals for low-cost applications
 
   social_networks:
     - network: GitHub
@@ -16,7 +16,7 @@ cv:
     Education:
       - institution: Politecnico di Milano
         location: Milan, Italy
-        area:  TLC Engineering
+        area: TLC Engineering
         studyType: PhD
         start_date: 2013
         end_date: 2016
@@ -97,7 +97,7 @@ cv:
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Languages:
-      - name: German
+      - name: Italian
         summary: "Native speaker"
 
       - name: English

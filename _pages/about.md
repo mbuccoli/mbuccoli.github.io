@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Audio scientist and engineer at <a href='www.bdsound.com'>BdSound</a>.
+subtitle: Audio scientist and engineer at <a href='https://www.bdsound.com'>BdSound</a>.
 
 profile:
   align: right
