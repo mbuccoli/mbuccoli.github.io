@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: Repositories
+title: repo
 description: This is a selected list of repos of my projects. 
 nav: true
 nav_order: 4
