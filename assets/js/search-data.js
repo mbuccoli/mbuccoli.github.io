@@ -56,16 +56,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-i-wil-participate-to-the-6th-aes-conference-on-automotive-audio-in-detroit-end-of-july-2026-see-you-there",
+          title: 'I wil participate to the 6th AES conference on Automotive Audio in Detroit...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-a-note-from-eusipco25",
+          title: 'A note from EUSIPCO25',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2.html";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-i-was-in-florence-to-present-the-paper-effects-of-automotive-microphone-frequency-response-characteristics-and-noise-conditions-on-speech-and-asr-quality-an-experimental-evaluation-at-the-aes-italy-annual-meeting-conferences-are-valuable-for-three-reasons-gaining-inspiration-from-fellow-researchers-building-a-community-around-scientific-topics-and-having-the-opportunity-to-visit-remarkable-places-the-italian-meeting-delivered-on-all-three-fronts-i-attended-many-interesting-presentations-including-some-rather-unusual-ones-such-as-a-study-on-capturing-chewing-sounds-to-evaluate-food-crispiness-and-met-several-brilliant-italian-scientists-including-some-of-my-former-students-who-are-now-pursuing-successful-careers-in-audio-analysis-and-processing-the-sala-del-buonumore-hall-of-jolliness-was-likely-one-of-the-most-beautiful-venues-where-i-have-ever-presented-a-paper-i-also-took-some-time-to-visit-the-usual-sights-around-florence-i-look-forward-to-the-next-aes-italia-meeting-and-hope-to-connect-with-more-italian-audio-scientists-at-upcoming-aes-conventions-starting-with-aes-automotive-audio-in-summer-2026-special-thanks-to-my-co-author-simone-shawn-cazzaniga-who-served-as-an-excellent-ambassador-for-bdsound-s-innovation-team",
+          title: 'I was in Florence to present the paper “Effects of Automotive Microphone Frequency...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
