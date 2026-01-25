@@ -50,21 +50,26 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/AES_italy25_note.html";
-            },},{id: "theses-",
-          title: '',
-          description: "",
-          section: "Theses",handler: () => {
-              window.location.href = "/theses/andreoletti_2015.html";
             },},{id: "theses-a-music-search-engine-based-on-a-contextual-related-semantic-model",
           title: 'A music search engine based on a contextual related semantic model',
           description: "",
           section: "Theses",handler: () => {
               window.location.href = "/theses/gallo_2014.html";
+            },},{id: "theses-analysis-of-musical-structure-an-approach-based-on-deep-learning",
+          title: 'Analysis of musical structure: an approach based on deep learning',
+          description: "",
+          section: "Theses",handler: () => {
+              window.location.href = "/theses/andreoletti_2015.html";
             },},{id: "theses-learning-a-personalized-similarity-metric-for-musical-content",
           title: 'Learning a personalized similarity metric for musical content',
           description: "",
           section: "Theses",handler: () => {
               window.location.href = "/theses/carloni_2018.html";
+            },},{id: "theses-beat-tracking-using-recurrent-neural-network-a-transfer-learning-approach",
+          title: 'Beat tracking using recurrent neural network: a transfer learning approach',
+          description: "",
+          section: "Theses",handler: () => {
+              window.location.href = "/theses/fiocchi_2018.html";
             },},{id: "theses-a-personalized-metric-for-music-similarity-using-siamese-deep-neural-networks",
           title: 'A personalized metric for music similarity using Siamese deep neural networks',
           description: "",
@@ -85,11 +90,6 @@ ninja.data = [{
           description: "",
           section: "Theses",handler: () => {
               window.location.href = "/theses/balsarri_2020.html";
-            },},{id: "theses-",
-          title: '',
-          description: "",
-          section: "Theses",handler: () => {
-              window.location.href = "/theses/fiocchi_2018.html";
             },},{id: "theses-a-real-time-solution-for-speech-enhancement-using-dilated-convolutional-neuralnetworks",
           title: 'A real-time solution for speech enhancement using dilated convolutional neuralnetworks',
           description: "",
