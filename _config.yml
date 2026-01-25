@@ -114,7 +114,7 @@ collections:
   teachings:
     output: false
   theses:
-    output: true
+    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings

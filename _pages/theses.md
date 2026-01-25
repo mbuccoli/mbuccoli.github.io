@@ -13,19 +13,23 @@ Theses before 2019 were conducted as a PhD student or post-doc at Politecnico di
 
 
 
-{% comment %} 1. Pull the collection and group by the year part of the date {% endcomment %}
-{% assign thesesByYear = site.theses | group_by_exp: "item", "item.date | date: '%Y'" %}
+{% comment %} Group theses by the year portion of the date {% endcomment %}
+{% assign thesesByYear = site.theses | group_by_exp: "item", "item.date | date: '%Y'" | sort: "name" | reverse %}
 
-{% comment %} 2. Loop through each year group (sorted by year name) {% endcomment %}
 {% for year in thesesByYear %}
-  <h2>{{ year.name }}</h2>
-  <ul>
-    {% comment %} 3. Loop through the items within that specific year {% endcomment %}
+  <section class="year-group">
+    <h2>{{ year.name }}</h2>
+    <hr>
+
     {% for thesis in year.items %}
-      <li>
-        <strong>{{ thesis.date | date: "%b %d" }}:</strong> 
-        <a href="{{ thesis.url }}">{{ thesis.title }}</a>
-      </li>
+      <div class="thesis-entry" style="margin-bottom: 2rem;">
+        <h3 style="margin-bottom: 0.5rem;">{{ thesis.title }}</h3>
+        <p><strong>Month:</strong> {{ thesis.date | date: "%B" }}</p>
+        
+        <div class="thesis-content">
+          {{ thesis.content }}
+        </div>
+      </div>
     {% endfor %}
-  </ul>
+  </section>
 {% endfor %}
