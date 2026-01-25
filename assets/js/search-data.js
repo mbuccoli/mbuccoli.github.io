@@ -44,6 +44,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
+        },{id: "nav-theses",
+          title: "theses",
+          description: "List of theses I co-supervised..",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/theses/";
+          },
         },{id: "news-i-wil-participate-to-the-6th-aes-conference-on-automotive-audio-in-detroit-end-of-july-2026-see-you-there",
           title: 'I wil participate to the 6th AES conference on Automotive Audio in Detroit...',
           description: "",
@@ -112,6 +119,11 @@ ninja.data = [{
           description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/introduction-to-machine-learning.html";
+            },},{id: "theses-methods-for-providing-input-gain-robustness-to-dnn-based-real-time-speech-processing-systems",
+          title: 'Methods for providing input gain robustness to dnn-based real-time speech processing systems',
+          description: "",
+          section: "Theses",handler: () => {
+              window.location.href = "/theses/ozcan2024.html";
             },},{
         id: 'social-email',
         title: 'email',
