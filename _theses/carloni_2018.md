@@ -6,4 +6,4 @@ layout: thesis
 abstracturl: https://www.politesi.polimi.it/handle/10589/139076
 ---
 
-similarity modeling that relies on both content-based and user-related similarity information. We exploit a non-metric scaling technique to first elaborate a low-dimensional space (or embedding) which fulfills the similarity information provided by the user, and a regression technique to learn a mapping between content-based information and embedding-related information.  
+We present a hybrid model for personalized similarity modeling that relies on both content-based and user-related similarity information. We exploit a non-metric scaling technique to first elaborate a low-dimensional space (or embedding) which fulfills the similarity information provided by the user, and a regression technique to learn a mapping between content-based information and embedding-related information.  

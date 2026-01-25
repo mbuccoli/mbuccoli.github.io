@@ -8,25 +8,43 @@ OUTPUT_DIR = "_theses"
 if not os.path.exists(OUTPUT_DIR):
     os.makedirs(OUTPUT_DIR)
 
-class ThesisParser():
+
+class ThesisParser:
     def __init__(self):
         self.theses = []
         self.current_thesis = None
+
     def feed(self, html_block):
         articles = html_block.split(r"<article>")
         for article in articles:
             self.add_thesis(article)
+
     def add_thesis(self, article_block):
         lines = article_block.split("\n")
-        current_thesis = {"title": "", "author": "", "abstract": "", "url": "", "month":"", "year": ""}
+        current_thesis = {
+            "title": "",
+            "author": "",
+            "abstract": "",
+            "url": "",
+            "month": "",
+            "year": "",
+        }
         author_next = False
         abstract_next = False
-        title_next=False
+        title_next = False
         for line in lines:
-            for tag in [r"<br>",r"</br>",r"<br />",r"<br/>",r"</p>",r"</article>",r"</p>"]:
-                line=line.replace(tag, "")
-            
-            if line=="" or r"<br/>"in line or r"</article>" in line:
+            for tag in [
+                r"<br>",
+                r"</br>",
+                r"<br />",
+                r"<br/>",
+                r"</p>",
+                r"</article>",
+                r"</p>",
+            ]:
+                line = line.replace(tag, "")
+
+            if line == "" or r"<br/>" in line or r"</article>" in line:
                 continue
             elif r"<em>" in line or title_next:
                 if not title_next:
@@ -37,36 +55,36 @@ class ThesisParser():
                     title_next = True
                 else:
                     title_next = False
-                    author_next=True
+                    author_next = True
             elif author_next:
                 # print(line)
                 current_thesis["author"] = line.split(",")[0]
                 current_thesis["month"] = line.split(", ")[1].split(" ")[0]
                 current_thesis["year"] = line.split(", ")[1].split(" ")[1]
-                author_next=False
+                author_next = False
             elif "short abstract" in line.lower():
-                abstract_next=True
+                current_thesis["abstract"] +=line.split(r"</strong>")[-1]
+                abstract_next = True
             elif "read the" in line.lower():
                 if "href" in line:
-                    current_thesis["url"] = line.split('href="')[1].split('"')[0]            
-                
+                    current_thesis["url"] = line.split('href="')[1].split('"')[0]
+
             elif abstract_next:
-                current_thesis["abstract"]+= line+" "
-        if current_thesis["title"]!="":
+                current_thesis["abstract"] += line + " "
+        if current_thesis["title"] != "":
             self.theses.append(current_thesis)
- 
 
 
 def save_to_markdown(thesis):
-    
-    year= thesis['year']
+
+    year = thesis["year"]
     print(thesis)
     date_obj = datetime.strptime(f"{thesis['month']} {year}", "%B %Y")
     date_fmt = date_obj.strftime("%Y-%m-%d")
     # Filename: surname_year.md
     surname = thesis["author"].split(" ")[-1].lower()
     filename = f"{surname}_{thesis['year']}.md"
-    
+
     content = f"""---
 title: {thesis['title']}
 date: {date_fmt}
@@ -77,10 +95,11 @@ url: {thesis['url']}
 
 {thesis['abstract']}
 """
-    
+
     filepath = os.path.join(OUTPUT_DIR, filename)
     with open(filepath, "w", encoding="utf-8") as f:
         f.write(content)
+
 
 # Input HTML Data
 html_block = """
@@ -539,8 +558,8 @@ belonging to the same context. <br />
 if __name__ == "__main__":
     parser = ThesisParser()
     parser.feed(html_block)
-    
+
     for t in parser.theses:
         save_to_markdown(t)
-    
+
     print(f"Processed {len(parser.theses)} files into {OUTPUT_DIR}/")

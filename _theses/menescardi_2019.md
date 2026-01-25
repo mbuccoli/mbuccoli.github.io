@@ -6,4 +6,5 @@ layout: thesis
 abstracturl: https://www.politesi.polimi.it/handle/10589/152919
 ---
 
+Techniques employed to detect the presence or absence of human
 voice in an audio signal are called Voice Activity Detection (VAD) algorithms. Our approach optimizes both the feature extraction and the classification performed by the deep neural network. The goal is to comply with requirements imposed by embedded systems. 

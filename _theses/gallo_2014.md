@@ -6,4 +6,5 @@ layout: thesis
 abstracturl: https://www.politesi.polimi.it/handle/10589/89922
 ---
 
-description and music retrieval, that we named Contextual-related semantic model. Our method defines different semantic contexts and dimensional semantic relations between music descriptors belonging to the same context.  
+In this work we propose an approach for music high-level
+ description and music retrieval, that we named Contextual-related semantic model. Our method defines different semantic contexts and dimensional semantic relations between music descriptors belonging to the same context.  
