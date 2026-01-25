@@ -6,4 +6,5 @@ layout: thesis
 abstracturl: https://www.politesi.polimi.it/handle/10589/108756
 ---
 
-Analysis algorithm where we use a Deep Belief Network to extract a sequence of descriptors that is successively given as input to several Music Structural Analysis algorithms presented in literature.  
+Analysis algorithm where we use a Deep Belief Network to extract a sequence of descriptors that is successively given as input to several Music Structural Analysis algorithms presented in literature.
+
