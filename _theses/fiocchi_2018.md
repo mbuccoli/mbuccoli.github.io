@@ -1,5 +1,5 @@
 ---
-title: Beat tracking using recurrent neural network : a transfer learning approach
+title: "Beat tracking using recurrent neural network: a transfer learning approach"
 date: 2018-04-01
 author: Davide Fiocchi
 layout: thesis

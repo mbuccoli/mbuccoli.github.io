@@ -1,5 +1,5 @@
 ---
-title: Analysis of musical structure: an approach based on deep learning
+title: "Analysis of musical structure: an approach based on deep learning"
 date: 2015-07-01
 author: Davide Andreoletti
 layout: thesis
