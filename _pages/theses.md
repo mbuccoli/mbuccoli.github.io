@@ -4,7 +4,7 @@ permalink: /theses/
 title: theses
 description: List of theses I co-supervised..
 nav: true
-nav_order: 6
+nav_order: 3
 ---
 
 Theses since 2019 were conducted as internships at BdSound S.r.l. Apply <a href="http://bdsound.com/your-thesis">here</a> to be the next one.
