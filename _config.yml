@@ -113,6 +113,8 @@ collections:
     output: true
   teachings:
     output: false
+  theses:
+    output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
