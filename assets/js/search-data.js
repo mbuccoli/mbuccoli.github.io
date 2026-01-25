@@ -57,11 +57,86 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/AES_italy25_note.html";
+            },},{id: "theses-",
+          title: '',
+          description: "",
+          section: "Theses",handler: () => {
+              window.location.href = "/theses/andreoletti_2015.html";
+            },},{id: "theses-a-music-search-engine-based-on-a-contextual-related-semantic-model",
+          title: 'A music search engine based on a contextual related semantic model',
+          description: "",
+          section: "Theses",handler: () => {
+              window.location.href = "/theses/gallo_2014.html";
+            },},{id: "theses-learning-a-personalized-similarity-metric-for-musical-content",
+          title: 'Learning a personalized similarity metric for musical content',
+          description: "",
+          section: "Theses",handler: () => {
+              window.location.href = "/theses/carloni_2018.html";
+            },},{id: "theses-a-personalized-metric-for-music-similarity-using-siamese-deep-neural-networks",
+          title: 'A personalized metric for music similarity using Siamese deep neural networks',
+          description: "",
+          section: "Theses",handler: () => {
+              window.location.href = "/theses/sala_2018.html";
+            },},{id: "theses-automatic-playlist-generation-using-recurrent-neural-network",
+          title: 'Automatic playlist generation using recurrent neural network',
+          description: "",
+          section: "Theses",handler: () => {
+              window.location.href = "/theses/irene_2018.html";
+            },},{id: "theses-voice-activity-detection-using-small-footprint-deep-learning",
+          title: 'Voice activity detection using small-footprint deep learning',
+          description: "",
+          section: "Theses",handler: () => {
+              window.location.href = "/theses/menescardi_2019.html";
+            },},{id: "theses-a-hybrid-approach-for-computationally-efficient-beamforming-using-sparse-linear-microphonearrays",
+          title: 'A hybrid approach for computationally-efficient beamforming using sparse linear microphonearrays',
+          description: "",
+          section: "Theses",handler: () => {
+              window.location.href = "/theses/balsarri_2020.html";
+            },},{id: "theses-",
+          title: '',
+          description: "",
+          section: "Theses",handler: () => {
+              window.location.href = "/theses/fiocchi_2018.html";
+            },},{id: "theses-a-real-time-solution-for-speech-enhancement-using-dilated-convolutional-neuralnetworks",
+          title: 'A real-time solution for speech enhancement using dilated convolutional neuralnetworks',
+          description: "",
+          section: "Theses",handler: () => {
+              window.location.href = "/theses/segato_2021.html";
+            },},{id: "theses-a-deep-real-time-talk-state-detector-for-acoustic-echo-cancellation",
+          title: 'A deep real-time talk state detector for acoustic echo cancellation',
+          description: "",
+          section: "Theses",handler: () => {
+              window.location.href = "/theses/foscarin_2021.html";
+            },},{id: "theses-speaker-recognition-with-small-footprint-cnn",
+          title: 'Speaker recognition with small-footprint CNN',
+          description: "",
+          section: "Theses",handler: () => {
+              window.location.href = "/theses/salani_2021.html";
+            },},{id: "theses-real-time-speech-dereverberation-using-asmall-footprint-convolutional-neuralnetwork",
+          title: 'Real-time speech dereverberation using asmall-footprint convolutional neuralnetwork',
+          description: "",
+          section: "Theses",handler: () => {
+              window.location.href = "/theses/marzo_2022.html";
+            },},{id: "theses-real-time-multimicrophone-speaker-separation-for-the-automotive-scenario-using-alightweight-convolutional-neural-network",
+          title: 'Real-time multimicrophone speaker separation for the automotive scenario, using alightweight convolutional neural network...',
+          description: "",
+          section: "Theses",handler: () => {
+              window.location.href = "/theses/maver_2022.html";
+            },},{id: "theses-a-cascade-approach-for-speech-enhancement-based-on-deep-learning",
+          title: 'A cascade approach for speech enhancement based on deep learning',
+          description: "",
+          section: "Theses",handler: () => {
+              window.location.href = "/theses/gualtieri_2023.html";
             },},{id: "theses-methods-for-providing-input-gain-robustness-to-dnn-based-real-time-speech-processing-systems",
           title: 'Methods for providing input gain robustness to dnn-based real-time speech processing systems',
           description: "",
           section: "Theses",handler: () => {
-              window.location.href = "/theses/ozcan2024.html";
+              window.location.href = "/theses/ozcan_2024.html";
+            },},{id: "theses-a-lightweight-speaker-verification-system-for-real-time-applications",
+          title: 'A Lightweight Speaker Verification System for Real-Time Applications',
+          description: "",
+          section: "Theses",handler: () => {
+              window.location.href = "/theses/ozgunay_2024.html";
             },},{
         id: 'social-email',
         title: 'email',
