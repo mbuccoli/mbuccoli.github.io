@@ -37,13 +37,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Course materials, schedules, and resources for classes taught.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
         },{id: "news-i-wil-participate-to-the-6th-aes-conference-on-automotive-audio-in-detroit-end-of-july-2026-see-you-there",
           title: 'I wil participate to the 6th AES conference on Automotive Audio in Detroit...',
           description: "",
