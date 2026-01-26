@@ -103,7 +103,7 @@ cv:
         authors:
           - Michele Buccoli
         publisher: Politecnico di Milano
-        releaseDate: 2017
+        releaseDate: "2017"
         url: https://www.politesi.polimi.it/handle/10589/132057
         summary: >
           A unified framework is proposed to connect low‑level audio signal features with high‑level semantic
@@ -119,7 +119,7 @@ cv:
           - Giacomo Verticale
           - Augusto Sarti
         publisher: Journal of the Audio Engineering Society
-        releaseDate: 2015
+        releaseDate: "2015"
         url: https://secure.aes.org/forum/pubs/journal/?elib=18047
         # summary:
 
