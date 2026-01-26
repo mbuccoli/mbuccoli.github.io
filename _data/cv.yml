@@ -20,9 +20,13 @@ cv:
         studyType: PhD
         start_date: 2013
         end_date: 2016
+        summary:  Linking signal and semantic representations of musical content for music information retrieval
         highlights:
-          - Description 1.
-          - Description 2.
+          - Music Information Retrieval
+          - Machine and Deep Learning
+          - low level features analysis
+          - musical structural segmentation
+          - automatic semantic description
 
       - institution: Politecnico di Milano
         location: Milan, Italy
@@ -45,51 +49,326 @@ cv:
         location: Milan, Italy
         start_date: 2019
         end_date: present
-        summary: TBD
+        summary: >
+          Co-lead the innovation department of BdSound, coordinating the machine learning team, 
+          consultancy with customers for DSP expertise, support to academic papers. 
         highlights:
-          - TB
-          - D
+          - DSP and ML-based algorithm design
+          - mentoring to jr engineerss
+          - relationship with academia and customers
+          - scouting for new technologies
+          - support for technical HR 
 
       - company: Politecnico di Milano
         position: postdoc researcher
         location: Milan, Italy
         start_date: 2016
         end_date: 2018
+        summary: >
+          Participation to projects WhoLoDance and InterMusic
         highlights:
-          - dance.
-          - more dance.
-
+          - dance analysis
+          - remote music performance
+        
       - company: ST MicroElectronics
         position: Intern
         location: Milan, Italy
         start_date: 2013
         end_date: 2013
+        highlights:
+          - internship on the active noise cancellation
 
+    
+    Projects:
+      - name: WhoLoDance 
+        summary: > 
+          part of the Horizon2020 WholoDance, which sought to bridge the gap between traditional dance practice and cutting-edge 
+          technology. The project’s primary goal was to digitize and preserve the "intangible cultural heritage" of dance while
+           creating smart, interactive tools for teaching, learning, and choreography. 
+        highlights:
+        - dance motion capture analysis
+        - alignment of dance motion capture and video signals
+        - design and development of annotation tools for dance sequences
+      - name: Intermusic 
+        summary: > 
+          the INTERMUSIC project aimed to create a high-quality online environment for remote music education, specializing 
+          in low-latency technology for real-time rehearsals and performances. It was coordinated by the Conservatorio di 
+          Musica "Giuseppe Verdi" di Milano in partnership with Politecnico di Milano, the Royal Danish Academy of Music, 
+          and the Lithuanian Academy of Music and Theatre. The ultimate goal was to integrate blended learning into European
+           higher education to foster international collaboration while reducing travel costs and environmental impact.
+        highlights:
+        - dance motion capture analysis
+        - alignment of dance motion capture and video signals
+        - design and development of annotation tools for dance sequences
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: Linking signal and semantic representations of musical content for music information retrieval
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - Michele Buccoli
+        publisher: Politecnico di Milano
+        releaseDate: 2017
+        url: https://www.politesi.polimi.it/handle/10589/132057
+        summary: >
+          A unified framework is proposed to connect low‑level audio signal features with high‑level semantic
+           descriptions, enabling more effective music information retrieval across tasks like structure
+            analysis, bootleg detection, timbre annotation, and natural‑language music search.
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: Feature-based analysis of the effects of packet delay on networked musical interactions
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - Cristina E Rottondi
+          - Michele Buccoli
+          - Massimiliano Zanoni
+          - DG Garao
+          - Giacomo Verticale
+          - Augusto Sarti
+        publisher: Journal of the Audio Engineering Society
+        releaseDate: 2015
+        url: https://secure.aes.org/forum/pubs/journal/?elib=18047
+        # summary: 
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: "Virtual reality and choreographic practice: The potential for new creative methods"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - Rosa E Cisneros
+          - Karen Wood
+          - Sarah Whatley
+          - Michele Buccoli
+          - Massimiliano Zanoni
+          - Augusto Sarti
+        publisher: Body, Space & Technology
+        releaseDate: 2019
+        url: https://www.bstjournal.com/articles/10.16995/bst.305/
+        #summary: 
 
+      - title: A Presence- and Performance-Driven Framework to Investigate Interactive Networked Music Learning Scenarios
+        authors:
+          - Stefano Delle Monache
+          - Luca Comanducci
+          - Michele Buccoli
+          - Massimiliano Zanoni
+          - Augusto Sarti
+          - Enrico Pietrocola
+          - Filippo Berbenni
+          - Giovanni Cospito
+        publisher: Wireless Communications and Mobile Computing
+        releaseDate: 2019
+        url: https://onlinelibrary.wiley.com/doi/10.1155/2019/4593853
+        
+
+      - title: "Towards a general framework for the annotation of dance motion sequences: A framework and toolkit for collecting movement descriptions as ground-truth datasets"
+        authors:
+          - Katerina El Raheb
+          - Michele Buccoli
+          - Massimiliano Zanoni
+          - Akrivi Katifori
+          - Aristotelis Kasomoulis
+          - Augusto Sarti
+          - Yannis Ioannidis
+        publisher: Multimedia Tools and Applications
+        releaseDate: 2023
+        url: https://link.springer.com/article/10.1007/s11042-022-12602-y
+
+      - title: A music search engine based on semantic text-based query
+        authors:
+          - Michele Buccoli
+          - Massimiliano Zanoni
+          - Augusto Sarti
+          - Stefano Tubaro
+        publisher: 2013 IEEE 15th International Workshop on Multimedia Signal Processing (MMSP)
+        releaseDate: 2013
+        url: 
+        summary: 
+
+      - title: Unsupervised feature learning for bootleg detection using deep learning architectures
+        authors:
+          - Michele Buccoli
+          - Paolo Bestagini
+          - Massimiliano Zanoni
+          - Augusto Sarti
+          - Stefano Tubaro
+        publisher: 2014 IEEE International Workshop on Information Forensics and Security (WIFS)
+        releaseDate: 2014
+        url: 
+        summary: 
+
+      - title: A dimensional contextual semantic model for music description and retrieval
+        authors:
+          - Michele Buccoli
+          - Alessandro Gallo
+          - Massimiliano Zanoni
+          - Augusto Sarti
+          - Stefano Tubaro
+        publisher: 2015 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+        releaseDate: 2015
+        url: 
+        summary: 
+
+      - title: An unsupervised approach to the semantic description of the sound quality of violins
+        authors:
+          - Michele Buccoli
+          - Massimiliano Zanoni
+          - Francesco Setragno
+          - Fabio Antonacci
+          - Augusto Sarti
+        publisher: 2015 23rd European Signal Processing Conference (EUSIPCO)
+        releaseDate: 2015
+        url: 
+        summary: 
+
+      - title: Unsupervised feature learning for music structural analysis
+        authors:
+          - Michele Buccoli
+          - Massimiliano Zanoni
+          - Augusto Sarti
+          - Stefano Tubaro
+          - Davide Andreoletti
+        publisher: 2016 24th European Signal Processing Conference (EUSIPCO)
+        releaseDate: 2016
+        url: 
+        summary: 
+
+      - title: A Higher-Dimensional Expansion of Affective Norms for English Terms for Music Tagging
+        authors:
+          - Michele Buccoli
+          - Massimiliano Zanoni
+          - George Fazekas
+          - Augusto Sarti
+          - Mark Sandler
+        publisher: Proceedings of the 17th International Society for Music Information Retrieval Conference (ISMIR)
+        releaseDate: 2016
+        url: 
+        summary: 
+
+      - title: Using multi-dimensional correlation for matching and alignment of mocap and video signals
+        authors:
+          - Michele Buccoli
+          - Bruno Di Giorgi
+          - Massimiliano Zanoni
+          - Fabio Antonacci
+          - Augusto Sarti
+        publisher: 2017 IEEE 19th International Workshop on Multimedia Signal Processing (MMSP)
+        releaseDate: 2017
+        url: 
+        summary: 
+
+      - title: "Beat tracking using recurrent neural network: a transfer learning approach"
+        authors:
+          - Daniele Fiocchi
+          - Michele Buccoli
+          - Massimiliano Zanoni
+          - Fabio Antonacci
+          - Augusto Sarti
+        publisher: 2018 26th European Signal Processing Conference (EUSIPCO)
+        releaseDate: 2018
+        url: 
+        summary: 
+
+      - title: Investigating networked music performances in pedagogical scenarios for the intermusic project
+        authors:
+          - Luca Comanducci
+          - Michele Buccoli
+          - Massimiliano Zanoni
+          - Augusto Sarti
+          - Stefano Delle Monache
+          - Giovanni Cospito
+          - Enrico Pietrocola
+          - Filippo Berbenni
+        publisher: 2018 23rd Conference of Open Innovations Association (FRUCT)
+        releaseDate: 2018
+        url: 
+        summary: 
+
+      - title: "Time is not on my side: network latency, presence and performance in remote music interaction"
+        authors:
+          - Stefano Delle Monache
+          - Michele Buccoli
+          - Luca Comanducci
+          - Augusto Sarti
+          - Giovanni Cospito
+          - Enrico Pietrocola
+          - Filippo Berbenni
+        publisher: XXII Colloquio di Informatica Musicale (CIM)
+        releaseDate: 2018
+        url: 
+        summary: 
+
+      - title: Automatic playlist generation using Convolutional Neural Networks and Recurrent Neural Networks
+        authors:
+          - Rosilde Tatiana Irene
+          - Clara Borrelli
+          - Massimiliano Zanoni
+          - Michele Buccoli
+          - Augusto Sarti
+        publisher: 2019 27th European Signal Processing Conference (EUSIPCO)
+        releaseDate: 2019
+        url: 
+        summary: 
+
+      - title: Real-Time Multichannel Speech Separation and Enhancement Using a Beamspace-Domain-Based Lightweight CNN
+        authors:
+          - Marco Olivieri
+          - Luca Comanducci
+          - Mirco Pezzoli
+          - Davide Balsarri
+          - Luca Menescardi
+          - Michele Buccoli
+          - Simone Pecorino
+          - Antonio Grosso
+          - Fabio Antonacci
+          - Augusto Sarti
+        publisher: ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+        releaseDate: 2023
+        url: 
+        summary: 
+
+      - title: An empirical evaluation of in-car acoustic measurements for the sports car scenario
+        authors:
+          - D. Badiane
+          - F. Gualtieri
+          - A. Proverbio
+          - M. Buccoli
+          - S. Pecorino
+          - A. Grosso
+        publisher: 2024 AES 5th International Conference on Automotive Audio
+        releaseDate: 2024
+        url: 
+        summary: 
+
+      - title: Audio speech source separation and enhancement in an automotive scenario using different microphone configurations
+        authors:
+          - F. Maver
+          - D. Foscarin
+          - D. Balsarri
+          - L. Menescardi
+          - M. Buccoli
+          - S. Pecorino
+        publisher: 2024 AES 5th International Conference on Automotive Audio
+        releaseDate: 2024
+        url: 
+        summary: 
+
+      - title: A Small-Footprint Deep-Learning Solution for Real-Time In-Car Emergency Vehicle Detection
+        authors:
+          - Francesco Bossio
+          - Paolo Bestagini
+          - Luca Menescardi
+          - Federico Maver
+          - Daniele Foscarin
+          - Michele Buccoli
+          - Simone Pecorino
+        publisher: 2025 33rd European Signal Processing Conference (EUSIPCO)
+        releaseDate: 2025
+        url: 
+        summary: 
+
+      - title: "Effects of automotive microphone frequency response characteristics and noise conditions on speech and ASR quality--an experimental evaluation"
+        authors:
+          - M. Buccoli
+          - Y. Du
+          - C. Soendergaard J.
+          - S. S. Cazzaniga
+        publisher: 2025 AES International Conference
+        releaseDate: 2025
+        url: 
+        summary:
     Skills:
       - name: Physics
         level: Master
@@ -108,30 +387,6 @@ cv:
         icon: fa-solid fa-tag
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
 
     References:
       - name: Professor John Doe
