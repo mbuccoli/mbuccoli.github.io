@@ -23,9 +23,6 @@ announcements:
 
 ---
 
-Since 2019 I am Senior Innovation Scientist at BdSound for the development of speech-based solutions based on machine and deep learning. Among my duties, I scout new technologies, co-lead BdSound's innovation group and act as a technical manager for internal and external projects.  I co-supervise students for their M.Sc. thesis.
+Since 2019, I have served as a Senior Innovation Scientist at BdSound, where I spearhead the development of advanced speech-based solutions using machine and deep learning. In this role, I co-lead the innovation group, scout emerging technologies, and provide technical management for both internal and external projects. I am also dedicated to academic mentorship, co-supervising M.Sc. students.
 
-I received my B.Sc. in Computer Engineering in 2010 at the Università di Pisa and my M.Sc. in  Engineering (focused on Sound and Music Engineering) in 2013 at the Politecnico di Milano. In 2016 I defended my doctoral thesis titled "Linking signal and semantic representations of musical content for music information retrieval", and then conducted two years of post-doc research at Politecnico di Milano.
-
-My research has concerned music information retrieval, analysis of dance motion sequences, audio and speech processing, machine and deep learning techniques. I also have some experience with Motion Caption sequences, VR applications and use of Large Language Models.
-
+My academic foundation includes a B.Sc. in Computer Engineering (Università di Pisa) and an M.Sc. in Sound and Music Engineering (Politecnico di Milano). I earned my Ph.D. in 2016, focusing on the intersection of signal processing and semantic representations for Music Information Retrieval (MIR), followed by two years of postdoctoral research.
