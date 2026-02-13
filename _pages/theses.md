@@ -24,7 +24,7 @@ Theses before 2019 were conducted as a PhD student or post-doc at Politecnico di
     {% for thesis in year.items %}
       <div class="thesis-entry" style="margin-bottom: 2rem;">
         <h3 style="margin-bottom: 0.5rem;">{{ thesis.title }}</h3>
-        <p><strong>{{thesis.author}}</strong> | {% if thesis.url %}
+        <p><strong>{{thesis.author}}</strong> | {% if thesis.abstracturl %}
             | <a href="{{ thesis.abstracturl }}" target="_blank">Read the full abstract</a>{% endif %}
         </p>
         
