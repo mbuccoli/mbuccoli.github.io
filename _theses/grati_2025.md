@@ -1,6 +1,5 @@
 ---
-title: "Bandwidth extension from wide-band to fullband for speech signals using a low-resource data-driven approach
-"
+title: "Bandwidth extension from wide-band to fullband for speech signals using a low-resource data-driven approach"
 date: 2025-04-01
 author: Marcello Grati
 layout: thesis
