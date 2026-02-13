@@ -130,6 +130,16 @@ ninja.data = [{
           description: "",
           section: "Theses",handler: () => {
               window.location.href = "/theses/ozgunay_2024.html";
+            },},{id: "theses-a-small-footprint-real-time-approach-for-in-cabin-emergency-vehicle-detection-with-deep-learning",
+          title: 'A small-footprint real-time approach for in-cabin Emergency Vehicle Detection with deep learning',
+          description: "",
+          section: "Theses",handler: () => {
+              window.location.href = "/theses/bossio_2025.html";
+            },},{id: "theses-bandwidth-extension-from-wide-band-to-fullband-for-speech-signals-using-a-low-resource-data-driven-approach",
+          title: 'Bandwidth extension from wide-band to fullband for speech signals using a low-resource data-driven...',
+          description: "",
+          section: "Theses",handler: () => {
+              window.location.href = "/theses/grati_2025.html";
             },},{
         id: 'social-email',
         title: 'email',
