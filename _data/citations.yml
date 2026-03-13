@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-01-24'
+  last_updated: '2026-03-13'
 papers:
   UXR-R4IAAAAJ:35N4QoGY0k4C:
     citations: 7
     title: Using multi-dimensional correlation for matching and alignment of mocap and video signals
     year: '2017'
   UXR-R4IAAAAJ:3s1wT3WcHBgC:
-    citations: 52
+    citations: 49
     title: 'Virtual reality and choreographic practice: The potential for new creative methods'
     year: '2019'
   UXR-R4IAAAAJ:4OULZ7Gr8RgC:
@@ -14,7 +14,7 @@ papers:
     title: Deep music on air
     year: '2019'
   UXR-R4IAAAAJ:D03iK_w7-QYC:
-    citations: 17
+    citations: 16
     title: Real-time multichannel speech separation and enhancement using a beamspace-domain-based lightweight CNN
     year: '2023'
   UXR-R4IAAAAJ:HoB7MX3m0LUC:
@@ -22,7 +22,7 @@ papers:
     title: 'Time is not on my side: network latency, presence and performance in remote music interaction'
     year: '2018'
   UXR-R4IAAAAJ:JV2RwH3_ST0C:
-    citations: 61
+    citations: 63
     title: Feature-based analysis of the effects of packet delay on networked musical interactions
     year: '2015'
   UXR-R4IAAAAJ:M05iB0D1s5AC:
@@ -34,7 +34,7 @@ papers:
     title: An unsupervised approach to the semantic description of the sound quality of violins
     year: '2015'
   UXR-R4IAAAAJ:NMxIlDl6LWMC:
-    citations: 11
+    citations: 10
     title: Unsupervised feature learning for music structural analysis
     year: '2016'
   UXR-R4IAAAAJ:YFjsv_pBGBYC:
@@ -54,15 +54,15 @@ papers:
     title: Research Article A Presence-and Performance-Driven Framework to Investigate Interactive Networked Music Learning Scenarios
     year: '2019'
   UXR-R4IAAAAJ:bFI3QPDXJZMC:
-    citations: 0
-    title: A Small-Footprint Deep-Learning Solution for Real-Time In-Car Emergency Vehicle Detection
-    year: Unknown Year
+    citations: 1
+    title: A small-footprint deep-learning solution for real-time in-car emergency vehicle detection
+    year: '2025'
   UXR-R4IAAAAJ:blknAaTinKkC:
     citations: 4
     title: A HIGHER-DIMENSIONAL EXPANSION OF AFFECTIVE NORMS FOR ENGLISH TERMS FOR MUSIC TAGGING
     year: '2016'
   UXR-R4IAAAAJ:d1gkVwhDpl0C:
-    citations: 34
+    citations: 32
     title: Unsupervised feature learning for bootleg detection using deep learning architectures
     year: '2014'
   UXR-R4IAAAAJ:f2IySw72cVMC:
