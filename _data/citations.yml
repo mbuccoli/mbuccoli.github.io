@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-03'
+  last_updated: '2026-04-17'
 papers:
   UXR-R4IAAAAJ:35N4QoGY0k4C:
     citations: 7
@@ -14,7 +14,7 @@ papers:
     title: Deep music on air
     year: '2019'
   UXR-R4IAAAAJ:D03iK_w7-QYC:
-    citations: 17
+    citations: 18
     title: Real-time multichannel speech separation and enhancement using a beamspace-domain-based lightweight CNN
     year: '2023'
   UXR-R4IAAAAJ:HoB7MX3m0LUC:
@@ -54,7 +54,7 @@ papers:
     title: Research Article A Presence-and Performance-Driven Framework to Investigate Interactive Networked Music Learning Scenarios
     year: '2019'
   UXR-R4IAAAAJ:bFI3QPDXJZMC:
-    citations: 1
+    citations: 2
     title: A small-footprint deep-learning solution for real-time in-car emergency vehicle detection
     year: '2025'
   UXR-R4IAAAAJ:blknAaTinKkC:
@@ -78,7 +78,7 @@ papers:
     title: 'Beat tracking using recurrent neural network: a transfer learning approach'
     year: '2018'
   UXR-R4IAAAAJ:maZDTaKrznsC:
-    citations: 10
+    citations: 11
     title: A dimensional contextual semantic model for music description and retrieval
     year: '2015'
   UXR-R4IAAAAJ:pqnbT2bcN3wC:
@@ -90,7 +90,7 @@ papers:
     title: Audio speech source separation and enhancement in an automotive scenario using different microphone configurations
     year: '2024'
   UXR-R4IAAAAJ:rO6llkc54NcC:
-    citations: 34
+    citations: 36
     title: "A Presence\u2010and Performance\u2010Driven Framework to Investigate Interactive Networked Music Learning Scenarios"
     year: '2019'
   UXR-R4IAAAAJ:u-x6o8ySG0sC:
