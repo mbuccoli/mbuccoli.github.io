@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-17'
+  last_updated: '2026-05-11'
 papers:
   UXR-R4IAAAAJ:35N4QoGY0k4C:
     citations: 7
@@ -102,6 +102,6 @@ papers:
     title: A music search engine based on semantic text based queries
     year: '2011'
   UXR-R4IAAAAJ:yD5IFk8b50cC:
-    citations: 10
+    citations: 11
     title: 'Towards a general framework for the annotation of dance motion sequences: A framework and toolkit for collecting movement descriptions as ground-truth datasets'
     year: '2023'
