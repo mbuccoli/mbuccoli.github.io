@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-11'
+  last_updated: '2026-05-25'
 papers:
   UXR-R4IAAAAJ:35N4QoGY0k4C:
     citations: 7
     title: Using multi-dimensional correlation for matching and alignment of mocap and video signals
     year: '2017'
   UXR-R4IAAAAJ:3s1wT3WcHBgC:
-    citations: 51
+    citations: 52
     title: 'Virtual reality and choreographic practice: The potential for new creative methods'
     year: '2019'
   UXR-R4IAAAAJ:4OULZ7Gr8RgC:
@@ -26,7 +26,7 @@ papers:
     title: Feature-based analysis of the effects of packet delay on networked musical interactions
     year: '2015'
   UXR-R4IAAAAJ:M05iB0D1s5AC:
-    citations: 32
+    citations: 33
     title: 'WhoLoDancE: Whole-body Interaction Learning for Dance Education'
     year: '2018'
   UXR-R4IAAAAJ:M3NEmzRMIkIC:
@@ -90,7 +90,7 @@ papers:
     title: Audio speech source separation and enhancement in an automotive scenario using different microphone configurations
     year: '2024'
   UXR-R4IAAAAJ:rO6llkc54NcC:
-    citations: 36
+    citations: 37
     title: "A Presence\u2010and Performance\u2010Driven Framework to Investigate Interactive Networked Music Learning Scenarios"
     year: '2019'
   UXR-R4IAAAAJ:u-x6o8ySG0sC:
