@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-03'
+  last_updated: '2026-06-10'
 papers:
   UXR-R4IAAAAJ:35N4QoGY0k4C:
     citations: 7
@@ -70,11 +70,11 @@ papers:
     title: An empirical evaluation of in-car acoustic measurements for the sports car scenario
     year: '2024'
   UXR-R4IAAAAJ:fPk4N6BV_jEC:
-    citations: 31
+    citations: 32
     title: Automatic playlist generation using convolutional neural networks and recurrent neural networks
     year: '2019'
   UXR-R4IAAAAJ:g5m5HwL7SMYC:
-    citations: 12
+    citations: 13
     title: 'Beat tracking using recurrent neural network: a transfer learning approach'
     year: '2018'
   UXR-R4IAAAAJ:maZDTaKrznsC:
