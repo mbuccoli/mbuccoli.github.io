@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-10'
+  last_updated: '2026-06-19'
 papers:
   UXR-R4IAAAAJ:35N4QoGY0k4C:
     citations: 7
     title: Using multi-dimensional correlation for matching and alignment of mocap and video signals
     year: '2017'
   UXR-R4IAAAAJ:3s1wT3WcHBgC:
-    citations: 53
+    citations: 52
     title: 'Virtual reality and choreographic practice: The potential for new creative methods'
     year: '2019'
   UXR-R4IAAAAJ:4OULZ7Gr8RgC:
@@ -54,7 +54,7 @@ papers:
     title: Research Article A Presence-and Performance-Driven Framework to Investigate Interactive Networked Music Learning Scenarios
     year: '2019'
   UXR-R4IAAAAJ:bFI3QPDXJZMC:
-    citations: 2
+    citations: 3
     title: A small-footprint deep-learning solution for real-time in-car emergency vehicle detection
     year: '2025'
   UXR-R4IAAAAJ:blknAaTinKkC:
@@ -90,7 +90,7 @@ papers:
     title: Audio speech source separation and enhancement in an automotive scenario using different microphone configurations
     year: '2024'
   UXR-R4IAAAAJ:rO6llkc54NcC:
-    citations: 38
+    citations: 39
     title: "A Presence\u2010and Performance\u2010Driven Framework to Investigate Interactive Networked Music Learning Scenarios"
     year: '2019'
   UXR-R4IAAAAJ:u-x6o8ySG0sC:
