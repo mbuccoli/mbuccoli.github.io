@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-19'
+  last_updated: '2026-07-01'
 papers:
   UXR-R4IAAAAJ:35N4QoGY0k4C:
     citations: 7
     title: Using multi-dimensional correlation for matching and alignment of mocap and video signals
     year: '2017'
   UXR-R4IAAAAJ:3s1wT3WcHBgC:
-    citations: 52
+    citations: 53
     title: 'Virtual reality and choreographic practice: The potential for new creative methods'
     year: '2019'
   UXR-R4IAAAAJ:4OULZ7Gr8RgC:
@@ -22,7 +22,7 @@ papers:
     title: 'Time is not on my side: network latency, presence and performance in remote music interaction'
     year: '2018'
   UXR-R4IAAAAJ:JV2RwH3_ST0C:
-    citations: 63
+    citations: 64
     title: Feature-based analysis of the effects of packet delay on networked musical interactions
     year: '2015'
   UXR-R4IAAAAJ:M05iB0D1s5AC:
