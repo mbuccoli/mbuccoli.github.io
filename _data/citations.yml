@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-01'
+  last_updated: '2026-07-10'
 papers:
   UXR-R4IAAAAJ:35N4QoGY0k4C:
     citations: 7
@@ -14,7 +14,7 @@ papers:
     title: Deep music on air
     year: '2019'
   UXR-R4IAAAAJ:D03iK_w7-QYC:
-    citations: 18
+    citations: 19
     title: Real-time multichannel speech separation and enhancement using a beamspace-domain-based lightweight CNN
     year: '2023'
   UXR-R4IAAAAJ:HoB7MX3m0LUC:
@@ -90,7 +90,7 @@ papers:
     title: Audio speech source separation and enhancement in an automotive scenario using different microphone configurations
     year: '2024'
   UXR-R4IAAAAJ:rO6llkc54NcC:
-    citations: 39
+    citations: 40
     title: "A Presence\u2010and Performance\u2010Driven Framework to Investigate Interactive Networked Music Learning Scenarios"
     year: '2019'
   UXR-R4IAAAAJ:u-x6o8ySG0sC:
