@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-15'
+  last_updated: '2026-07-20'
 papers:
   UXR-R4IAAAAJ:35N4QoGY0k4C:
     citations: 7
@@ -14,7 +14,7 @@ papers:
     title: Deep music on air
     year: '2019'
   UXR-R4IAAAAJ:D03iK_w7-QYC:
-    citations: 19
+    citations: 20
     title: Real-time multichannel speech separation and enhancement using a beamspace-domain-based lightweight CNN
     year: '2023'
   UXR-R4IAAAAJ:HoB7MX3m0LUC:
